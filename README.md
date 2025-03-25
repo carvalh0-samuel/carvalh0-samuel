@@ -5,7 +5,7 @@
 - 🌱 Aprendendo mais sobre desenvolvimento web.
 <br/>
 
-![](https://komarev.com/ghpvc/?username=FabricioLR&color=006bed)
+![](https://komarev.com/ghpvc/?username=carvalh0-samuel&color=006bed)
 
 ## Minhas Skills
 
