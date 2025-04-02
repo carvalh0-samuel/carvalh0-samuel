@@ -28,5 +28,4 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carvalho-samuel)](https://www.linkedin.com/in/carvalho-samuel)
-[![Gmail Badge](https://img.shields.io/badge/-samuelcarvalho1976@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuelcarvalho1976@gmail.com)](mailto:samuelcarvalho1976@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/carvalh0-samuel?label=follow&style=social)](https://github.com/carvalh0-samuel)
