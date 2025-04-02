@@ -27,5 +27,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carvalh0-samuel)](https://www.linkedin.com/in/carvalho-samuel)
+[![Linkedin](https://img.shields.io/badge/-Samuel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carvalh0-samuel)](https://www.linkedin.com/in/carvalh0-samuel)
 [![GitHub](https://img.shields.io/github/followers/carvalh0-samuel?label=follow&style=social)](https://github.com/carvalh0-samuel)
