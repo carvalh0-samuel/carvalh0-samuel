@@ -2,7 +2,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudante de Ciência da Computação.
-- 🌱 Aprendendo mais sobre desenvolvimento web.
+- 🌱 Aprendendo mais sobre desenvolvimento.
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=carvalh0-samuel&color=006bed)
