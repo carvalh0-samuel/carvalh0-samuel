@@ -17,7 +17,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Git](https://img.shields.io/badge/Git-ffffff?style=flat&logo=git&logoColor=red)
+![Git](https://img.shields.io/badge/Git-ffffff?style=flat&logo=git&logoColor=ff0000)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 **Ferramentas de desenvolvimento**
