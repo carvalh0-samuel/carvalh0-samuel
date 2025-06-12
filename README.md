@@ -11,18 +11,18 @@
 
 **Tecnologias**
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=181717)
-![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=181717)
-![Git](https://img.shields.io/badge/Git-dbd8d8?style=flat&logo=git&logoColor=E34F26)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-333333?style=flat&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-333333?style=flat&logo=css&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/-333333?style=flat&logo=c&logoColor=A8B9CC)
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=E34F26)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-181717?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## Onde me encontrar
 
