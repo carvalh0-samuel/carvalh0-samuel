@@ -5,8 +5,6 @@
 -  Aprendendo mais sobre desenvolvimento.
 <br/>
 
-![](https://komarev.com/ghpvc/?username=carvalh0-samuel&color=006bed)
-
 ## Minhas Skills
 
 **Tecnologias**
