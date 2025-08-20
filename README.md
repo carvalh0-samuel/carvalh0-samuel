@@ -3,7 +3,6 @@
 -  Estudante de Ciência da Computação.
 -  Explorando novas tecnologias e desenvolvendo soluções de software.
 -  Aprendendo mais sobre desenvolvimento.
-<br/>
 
 ## Minhas Skills
 
