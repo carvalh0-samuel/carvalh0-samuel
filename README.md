@@ -1,24 +1,25 @@
 ## Sobre mim
 
 -  Estudante de Ciência da Computação.
--  Explorando novas tecnologias e desenvolvendo soluções de software.
--  Aprendendo mais sobre desenvolvimento.
+-  Estagiário de TI no CAU/BR.
 
-## Minhas Skills
-
-**Tecnologias**
+## Skills
 
 ![HTML](https://img.shields.io/badge/HTML-333333?style=flat&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-333333?style=flat&logo=css&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=white)
+
+## Ferramentas
+
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=E34F26)
-![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Power BI Badge](https://img.shields.io/badge/Power%20BI-333333?style=flat&logo=powerbi&logoColor=F2C811)
+![Lovable Badge](https://img.shields.io/badge/Lovable-333333?style=flat&logo=lovable&logoColor=black)
+![Google Gemini Badge](https://img.shields.io/badge/Google%20Gemini-333333?style=flat&logo=googlegemini&logoColor=white)
+![Claude Code Badge](https://img.shields.io/badge/Claude%20Code-333333?style=flat&logo=anthropic&logoColor=white)
 
 ## Onde me encontrar
 
