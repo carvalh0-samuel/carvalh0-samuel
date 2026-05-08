@@ -19,6 +19,6 @@
 ![Google Gemini Badge](https://img.shields.io/badge/Google%20Gemini-333333?style=flat&logo=googlegemini&logoColor=white)
 ![Claude Code Badge](https://img.shields.io/badge/Claude%20Code-E34F26?style=flat&logo=anthropic&logoColor=white)
 
-## Onde me encontrar
+## Where to Find Me
 [![Linkedin](https://img.shields.io/badge/-Samuel_Carvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carvalh0-samuel)](https://www.linkedin.com/in/carvalh0-samuel)
 [![GitHub](https://img.shields.io/github/followers/carvalh0-samuel?label=follow&style=social)](https://github.com/carvalh0-samuel)
