@@ -1,6 +1,6 @@
-## Sobre mim
--  Estudante de Ciência da Computação.
--  Estagiário de TI no CAU/BR.
+## About Me
+- 🎓 Computer Science Student
+- 💼​ IT Intern at CAU/BR
 
 ## My Skills
 ![HTML](https://img.shields.io/badge/HTML-333333?style=flat&logo=html5&logoColor=E34F26)
