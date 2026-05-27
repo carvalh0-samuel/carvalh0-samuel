@@ -14,7 +14,6 @@
 ## Tools
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Lovable](https://img.shields.io/badge/Lovable-pink?style=flat&logo=lovable&logoColor=black)
 ![Google Gemini Badge](https://img.shields.io/badge/Google%20Gemini-333333?style=flat&logo=googlegemini&logoColor=white)
 ![Claude Code Badge](https://img.shields.io/badge/Claude%20Code-E34F26?style=flat&logo=anthropic&logoColor=white)
 
