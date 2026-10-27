@@ -11,7 +11,6 @@
 ### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-333333?style=flat&logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML-333333?style=flat&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-333333?style=flat&logo=css&logoColor=1572B6)
